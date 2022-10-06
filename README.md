@@ -15,13 +15,13 @@ To write a program to predict the profit of a city using the linear regression m
 5.Predict the value of y.
 6.Plot the graph respect to hours and scores using scatter plot function.
 ## Program:
-```
+
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: A.sharmila
 RegisterNumber:212221230094
 */
-```
+~~~
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
