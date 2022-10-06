@@ -15,7 +15,7 @@ To write a program to predict the profit of a city using the linear regression m
 5.Predict the value of y.
 6.Plot the graph respect to hours and scores using scatter plot function.
 ## Program:
-~~~
+```
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: A.sharmila
@@ -56,7 +56,7 @@ plt.title("Study hours vs. Scores")
 plt.plot(loss)
 plt.xlabel("Iterations")
 plt.ylabel("loss")
-
+```
 ## Output:
 ![e3](https://user-images.githubusercontent.com/94506182/194204646-4600e2cb-0d43-4e74-a363-376d414444c5.png)
 ![ee3](https://user-images.githubusercontent.com/94506182/194204682-d4a81111-75a4-4298-8c4d-c40ded335a6e.png)
